@@ -1,0 +1,85 @@
+item {
+  id: 1
+  name: '10_AMD'
+}
+
+
+item {
+  id: 2
+  name: '20_AMD'
+}
+
+item {
+  id: 3
+  name: '50_AMD'
+}
+
+item {
+  id: 4
+  name: '100_AMD'
+}
+
+item {
+  id: 5
+  name: '200_AMD'
+}
+
+item {
+  id: 6
+  name: '500_AMD'
+}
+
+item {
+  id: 7
+  name: '1000_AMD'
+}
+
+item {
+  id: 7
+  name: '2000_AMD'
+}
+
+item {
+  id: 8
+  name: '5000_AMD'
+}
+
+item {
+  id: 9
+  name: '10000_AMD'
+}
+
+item {
+  id: 10
+  name: '20000_AMD'
+}
+
+item {
+  id: 11
+  name: '50000_AMD'
+}
+
+item {
+  id: 12
+  name: '1000_AMD_old'
+}
+
+item {
+  id: 13
+  name: '5000_AMD_old'
+}
+
+item {
+  id: 13
+  name: '10000_AMD_old'
+}
+
+item {
+  id: 14
+  name: '20000_AMD_old'
+}
+
+item {
+  id: 15
+  name: '50000_AMD_old'
+}
